@@ -1,0 +1,18 @@
+/* ShowQuotes.css */
+.quote-container {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.quote-text {
+    font-size: 18px;
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+.quote-author {
+    font-size: 16px;
+    font-weight: bold;
+}

@@ -1,0 +1,31 @@
+.quote{
+    max-width: 700px;
+    margin:20px auto;
+    padding: 15px;
+    background-color: skyblue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+h3{
+    font-size: 18px;
+    margin-top:8px;
+}
+
+h3:before{
+    content:'~';
+}
+
+.quote p{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 26px;
+    margin:0;
+    text-transform: uppercase;
+}
+.quote button{
+    font-size: 15px;
+    background-color: aliceblue;
+    padding:10px;
+}
